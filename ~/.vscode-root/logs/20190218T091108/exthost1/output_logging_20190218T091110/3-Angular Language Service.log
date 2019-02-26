@@ -1,0 +1,26 @@
+Search path: /angular/presupuestoApp/src/app/formulario
+Config file name: /angular/presupuestoApp/tsconfig.json
+Angular Language Service: 7.2.4
+TypeScript: 3.1.6
+getTemplateReferences: 1681ms
+Add recursive watcher for: /angular/presupuestoApp
+Opened configuration file /angular/presupuestoApp/tsconfig.json
+Search path: /angular/presupuestoApp/src/app
+Config file name: /angular/presupuestoApp/tsconfig.json
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+Search path: /angular/presupuestoApp/src/app
+Config file name: /angular/presupuestoApp/tsconfig.json
+getTemplateReferences: 0ms
+Search path: /angular/presupuestoApp/src/app/gasto
+Config file name: /angular/presupuestoApp/tsconfig.json
+getTemplateReferences: 0ms
+Search path: /angular/presupuestoApp/src/app/formulario
+Config file name: /angular/presupuestoApp/tsconfig.json
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+Search path: /angular/presupuestoApp/src/app/ingreso
+Config file name: /angular/presupuestoApp/tsconfig.json
+getTemplateReferences: 0ms
+getDiagnostics: 42ms
+Search path: /angular/presupuestoApp/src/app

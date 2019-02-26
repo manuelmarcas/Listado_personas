@@ -1,0 +1,1713 @@
+Search path: /angular/listado-personas/src/app/login
+Config file name: /angular/listado-personas/tsconfig.json
+Angular Language Service: 7.2.4
+TypeScript: 3.1.6
+getTemplateReferences: 1601ms
+Add recursive watcher for: /angular/listado-personas
+Opened configuration file /angular/listado-personas/tsconfig.json
+getDiagnostics: 15ms
+Search path: /angular/listado-personas/src/app/login
+Config file name: /angular/listado-personas/tsconfig.json
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+getDiagnostics: 103ms
+getHoverAt: 8ms
+getHoverAt: 9ms
+getHoverAt: 6ms
+getCompletions: 86ms
+getDiagnostics: 39ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+Search path: /angular/listado-personas/src/app/login
+Config file name: /angular/listado-personas/tsconfig.json
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+getDiagnostics: 108ms
+getHoverAt: 9ms
+getHoverAt: 12ms
+getHoverAt: 9ms
+getHoverAt: 15ms
+getHoverAt: 14ms
+getHoverAt: 16ms
+getHoverAt: 18ms
+getHoverAt: 10ms
+getHoverAt: 15ms
+getHoverAt: 16ms
+getHoverAt: 6ms
+getHoverAt: 8ms
+getHoverAt: 3ms
+getHoverAt: 7ms
+getHoverAt: 8ms
+getDiagnostics: 94ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getHoverAt: 7ms
+getDiagnostics: 93ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getHoverAt: 8ms
+getDiagnostics: 78ms
+getDiagnostics: 94ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+Search path: /angular/listado-personas/src/app/login
+Config file name: /angular/listado-personas/tsconfig.json
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+getDiagnostics: 87ms
+getHoverAt: 12ms
+Search path: /angular/listado-personas/src/app/login
+Config file name: /angular/listado-personas/tsconfig.json
+getTemplateReferences: 0ms
+getHoverAt: 0ms
+getDiagnostics: 41ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+Search path: /angular/listado-personas/src/app
+Config file name: /angular/listado-personas/tsconfig.json
+getTemplateReferences: 72ms
+getDiagnostics: 3ms
+Search path: /angular/listado-personas/src/app
+Config file name: /angular/listado-personas/tsconfig.json
+getTemplateReferences: 0ms
+getDiagnostics: 7ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getCompletions: 34ms
+getDiagnostics: 27ms
+getCompletions: 15ms
+getDiagnostics: 27ms
+updating project structure from ...
+updated: ng - 29ms
+Warning: Can't resolve all parameters for DataService in /angular/listado-personas/src/app/data.service.ts: ([object Object], ?). This will become an error in Angular v6.x
+getDiagnostics: 73ms
+getCompletions: 17ms
+getDiagnostics: 18ms
+getCompletions: 22ms
+getDiagnostics: 22ms
+updating project structure from ...
+Warning: Can't resolve all parameters for DataService in /angular/listado-personas/src/app/data.service.ts: ([object Object], ?). This will become an error in Angular v6.x
+updated: ng - 19ms
+getCompletions: 19ms
+getCompletions: 10ms
+getCompletions: 21ms
+getCompletions: 10ms
+Warning: Can't resolve all parameters for DataService in /angular/listado-personas/src/app/data.service.ts: ([object Object], ?). This will become an error in Angular v6.x
+getDiagnostics: 78ms
+getCompletions: 22ms
+getDiagnostics: 22ms
+updating project structure from ...
+Warning: Can't resolve all parameters for DataService in /angular/listado-personas/src/app/data.service.ts: ([object Object], ?). This will become an error in Angular v6.x
+updated: ng - 26ms
+Warning: Can't resolve all parameters for DataService in /angular/listado-personas/src/app/data.service.ts: ([object Object], ?). This will become an error in Angular v6.x
+getDiagnostics: 70ms
+updating project structure from ...
+updated: ng - 0ms
+getCompletions: 18ms
+getDiagnostics: 7ms
+updating project structure from ...
+Warning: Can't resolve all parameters for DataService in /angular/listado-personas/src/app/data.service.ts: ([object Object], ?). This will become an error in Angular v6.x
+updated: ng - 17ms
+getDiagnostics: 116ms
+updating project structure from ...
+updated: ng - 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getDiagnostics: 28ms
+updating project structure from ...
+updated: ng - 29ms
+getHoverAt: 0ms
+getDiagnostics: 75ms
+updating project structure from ...
+updated: ng - 0ms
+getHoverAt: 1ms
+getHoverAt: 0ms
+getDiagnostics: 25ms
+getCompletions: 18ms
+getDiagnostics: 31ms
+getCompletions: 14ms
+getDiagnostics: 23ms
+getCompletions: 12ms
+getDiagnostics: 19ms
+getCompletions: 10ms
+getCompletions: 11ms
+getDiagnostics: 16ms
+getDiagnostics: 17ms
+getDiagnostics: 17ms
+getCompletions: 18ms
+getDiagnostics: 13ms
+getDiagnostics: 15ms
+getDefinitionAt: 1ms
+getDefinitionAt: 0ms
+Search path: /angular/listado-personas/src/app/login
+Config file name: /angular/listado-personas/tsconfig.json
+getTemplateReferences: 0ms
+updating project structure from ...
+updated: ng - 42ms
+getHoverAt: 1ms
+getDiagnostics: 14ms
+getDefinitionAt: 0ms
+Search path: /angular/listado-personas/src/app/login
+Config file name: /angular/listado-personas/tsconfig.json
+getTemplateReferences: 0ms
+getDiagnostics: 9ms
+getHoverAt: 1ms
+getHoverAt: 1ms
+getHoverAt: 1ms
+getCompletions: 20ms
+getDiagnostics: 27ms
+getHoverAt: 0ms
+updating project structure from ...
+updated: ng - 31ms
+getHoverAt: 0ms
+getHoverAt: 1ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 1ms
+getHoverAt: 1ms
+getDiagnostics: 72ms
+updating project structure from ...
+updated: ng - 0ms
+getDiagnostics: 15ms
+getDiagnostics: 20ms
+updating project structure from ...
+updated: ng - 19ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getDiagnostics: 59ms
+getCompletions: 16ms
+getDiagnostics: 13ms
+updating project structure from ...
+updated: ng - 25ms
+getDefinitionAt: 0ms
+Search path: /angular/listado-personas/src/app
+Config file name: /angular/listado-personas/tsconfig.json
+getTemplateReferences: 46ms
+getDiagnostics: 2ms
+getHoverAt: 0ms
+getDefinitionAt: 1ms
+getDefinitionAt: 0ms
+getHoverAt: 0ms
+getDefinitionAt: 1ms
+getDefinitionAt: 0ms
+getDefinitionAt: 0ms
+getDefinitionAt: 0ms
+getHoverAt: 0ms
+getDefinitionAt: 0ms
+getDefinitionAt: 0ms
+Search path: /angular/listado-personas/node_modules/firebase
+Config file name: /angular/listado-personas/tsconfig.json
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+getDiagnostics: 14ms
+getHoverAt: 1ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getDiagnostics: 67ms
+updating project structure from ...
+updated: ng - 45ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getDiagnostics: 81ms
+updating project structure from ...
+updated: ng - 0ms
+getDiagnostics: 21ms
+getCompletions: 15ms
+getCompletions: 15ms
+getDiagnostics: 19ms
+updating project structure from ...
+updated: ng - 25ms
+getCompletions: 19ms
+getCompletions: 19ms
+getDiagnostics: 67ms
+updating project structure from ...
+updated: ng - 0ms
+getDiagnostics: 19ms
+updating project structure from ...
+updated: ng - 19ms
+Search path: /angular/listado-personas/src/app/login
+Config file name: /angular/listado-personas/tsconfig.json
+getTemplateReferences: 59ms
+getDiagnostics: 2ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 1ms
+getHoverAt: 0ms
+getHoverAt: 1ms
+getHoverAt: 1ms
+getHoverAt: 1ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 1ms
+getHoverAt: 1ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 1ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 1ms
+getHoverAt: 1ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 1ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 14ms
+getDiagnostics: 4ms
+getHoverAt: 0ms
+getDiagnostics: 25ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+updating project structure from ...
+updated: ng - 31ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getDiagnostics: 73ms
+getDiagnostics: 20ms
+getDiagnostics: 16ms
+updating project structure from ...
+updated: ng - 20ms
+getDiagnostics: 59ms
+getDiagnostics: 19ms
+getHoverAt: 0ms
+updating project structure from ...
+updated: ng - 18ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getDefinitionAt: 0ms
+getDefinitionAt: 0ms
+getDefinitionAt: 1ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 1ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getDefinitionAt: 14ms
+getDiagnostics: 52ms
+updating project structure from ...
+updated: ng - 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+Search path: /angular/listado-personas/src/app
+Config file name: /angular/listado-personas/tsconfig.json
+getTemplateReferences: 0ms
+getDiagnostics: 24ms
+getDefinitionAt: 0ms
+Search path: /angular/listado-personas/src/app
+Config file name: /angular/listado-personas/tsconfig.json
+getTemplateReferences: 40ms
+getDefinitionAt: 17ms
+getDiagnostics: 8ms
+getDefinitionAt: 13ms
+getDiagnostics: 9ms
+getHoverAt: 1ms
+updating project structure from ...
+updated: ng - 24ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getDefinitionAt: 0ms
+getHoverAt: 0ms
+getDefinitionAt: 49ms
+getHoverAt: 0ms
+getDiagnostics: 73ms
+updating project structure from ...
+updated: ng - 0ms
+getHoverAt: 1ms
+getHoverAt: 0ms
+getDefinitionAt: 0ms
+getDefinitionAt: 0ms
+getDefinitionAt: 17ms
+getDiagnostics: 5ms
+updating project structure from ...
+updated: ng - 29ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getDiagnostics: 82ms
+updating project structure from ...
+updated: ng - 0ms
+Search path: /angular/listado-personas/src/app
+Config file name: /angular/listado-personas/tsconfig.json
+getTemplateReferences: 0ms
+getDiagnostics: 5ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 1ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 1ms
+getHoverAt: 1ms
+getHoverAt: 0ms
+getDiagnostics: 17ms
+getHoverAt: 0ms
+updating project structure from ...
+updated: ng - 28ms
+getHoverAt: 1ms
+getDiagnostics: 57ms
+updating project structure from ...
+updated: ng - 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 1ms
+getDiagnostics: 27ms
+getDiagnostics: 30ms
+updating project structure from ...
+updated: ng - 23ms
+getHoverAt: 1ms
+Search path: /angular/listado-personas/src/app
+Config file name: /angular/listado-personas/tsconfig.json
+getTemplateReferences: 42ms
+getDefinitionAt: 0ms
+getDiagnostics: 2ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+Search path: /angular/listado-personas/src/app
+Config file name: /angular/listado-personas/tsconfig.json
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+getDiagnostics: 81ms
+getHoverAt: 3ms
+getHoverAt: 14ms
+getHoverAt: 7ms
+getDiagnostics: 80ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 75ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getCompletions: 42ms
+getDiagnostics: 64ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getCompletions: 37ms
+getDiagnostics: 69ms
+getDiagnostics: 63ms
+getCompletions: 58ms
+getDiagnostics: 59ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getCompletions: 65ms
+getCompletions: 72ms
+getDiagnostics: 10ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 66ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getCompletions: 43ms
+getDiagnostics: 72ms
+getDiagnostics: 39ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getCompletions: 38ms
+getDiagnostics: 55ms
+getDiagnostics: 44ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 56ms
+getDiagnostics: 67ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getCompletions: 43ms
+getDiagnostics: 62ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 49ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getCompletions: 48ms
+getDiagnostics: 56ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 52ms
+getDiagnostics: 50ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getHoverAt: 13ms
+getCompletions: 40ms
+getDiagnostics: 68ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 57ms
+getCompletions: 80ms
+getCompletions: 81ms
+getCompletions: 69ms
+getCompletions: 77ms
+getDiagnostics: 12ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getCompletions: 97ms
+getDiagnostics: 12ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 75ms
+getCompletions: 45ms
+getDiagnostics: 62ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getCompletions: 56ms
+getCompletions: 63ms
+getDiagnostics: 88ms
+getDiagnostics: 59ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getHoverAt: 3ms
+getCompletions: 50ms
+getCompletions: 51ms
+getCompletions: 46ms
+getDiagnostics: 61ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+Search path: /angular/listado-personas/src/app
+Config file name: /angular/listado-personas/tsconfig.json
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+getDiagnostics: 43ms
+getDefinitionAt: 6ms
+getHoverAt: 14ms
+getHoverAt: 12ms
+getHoverAt: 6ms
+getHoverAt: 9ms
+Search path: /angular/listado-personas/src/app
+Config file name: /angular/listado-personas/tsconfig.json
+getTemplateReferences: 0ms
+getDiagnostics: 39ms
+getHoverAt: 0ms
+getDiagnostics: 91ms
+getCompletions: 35ms
+getCompletions: 18ms
+getDiagnostics: 26ms
+updating project structure from ...
+getTemplateReferences: 25ms
+updated: ng - 0ms
+getDiagnostics: 38ms
+updating project structure from ...
+getTemplateReferences: 22ms
+updated: ng - 0ms
+getHoverAt: 13ms
+getHoverAt: 12ms
+getDiagnostics: 29ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 26ms
+getCompletions: 25ms
+getCompletions: 15ms
+getCompletions: 13ms
+getCompletions: 16ms
+getCompletions: 11ms
+getCompletions: 18ms
+getCompletions: 14ms
+getCompletions: 30ms
+getCompletions: 11ms
+getDiagnostics: 66ms
+getCompletions: 16ms
+getDiagnostics: 17ms
+getDiagnostics: 29ms
+getDiagnostics: 19ms
+getDiagnostics: 24ms
+getCompletions: 16ms
+getCompletions: 18ms
+getCompletions: 10ms
+getDiagnostics: 22ms
+getDiagnostics: 17ms
+getCompletions: 17ms
+getDiagnostics: 11ms
+getDiagnostics: 27ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 25ms
+getHoverAt: 1ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getDefinitionAt: 0ms
+getDefinitionAt: 0ms
+Search path: /angular/listado-personas/src/app/login
+Config file name: /angular/listado-personas/tsconfig.json
+getTemplateReferences: 68ms
+getDiagnostics: 5ms
+getDiagnostics: 37ms
+getCompletions: 15ms
+getCompletions: 17ms
+getCompletions: 13ms
+getCompletions: 11ms
+getCompletions: 14ms
+getCompletions: 12ms
+getCompletions: 9ms
+getCompletions: 18ms
+getCompletions: 11ms
+getDiagnostics: 45ms
+getCompletions: 17ms
+getDiagnostics: 29ms
+getDiagnostics: 51ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getHoverAt: 1ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 1ms
+getCompletions: 14ms
+getDiagnostics: 31ms
+getCompletions: 9ms
+getDiagnostics: 36ms
+getCompletions: 20ms
+getCompletions: 9ms
+getDiagnostics: 38ms
+getCompletions: 17ms
+getCompletions: 12ms
+getCompletions: 14ms
+getCompletions: 18ms
+getCompletions: 10ms
+getCompletions: 14ms
+getDiagnostics: 56ms
+getCompletions: 11ms
+getCompletions: 13ms
+getDiagnostics: 31ms
+getDiagnostics: 113ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 47ms
+getDiagnostics: 62ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getCompletions: 12ms
+getCompletions: 14ms
+getDiagnostics: 21ms
+updating project structure from ...
+getTemplateReferences: 21ms
+updated: ng - 0ms
+getCompletions: 9ms
+getDiagnostics: 42ms
+getDiagnostics: 70ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getCompletions: 11ms
+getCompletions: 13ms
+getDiagnostics: 40ms
+updating project structure from ...
+getTemplateReferences: 20ms
+updated: ng - 0ms
+getDiagnostics: 36ms
+updating project structure from ...
+getTemplateReferences: 20ms
+updated: ng - 0ms
+getHoverAt: 1ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 1ms
+getHoverAt: 0ms
+getDiagnostics: 44ms
+updating project structure from ...
+getTemplateReferences: 23ms
+updated: ng - 0ms
+getHoverAt: 0ms
+getDefinitionAt: 0ms
+getDefinitionAt: 1ms
+getDefinitionAt: 1ms
+Search path: /angular/listado-personas/src/app
+Config file name: /angular/listado-personas/tsconfig.json
+getTemplateReferences: 0ms
+getDiagnostics: 31ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getCompletions: 9ms
+getDiagnostics: 56ms
+Search path: /angular/listado-personas/src/app
+Config file name: /angular/listado-personas/tsconfig.json
+getTemplateReferences: 0ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 39ms
+getDiagnostics: 4ms
+getHoverAt: 15ms
+getCompletions: 34ms
+getDiagnostics: 25ms
+getDiagnostics: 38ms
+updating project structure from ...
+getTemplateReferences: 20ms
+updated: ng - 0ms
+getDiagnostics: 41ms
+getDiagnostics: 73ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getCompletions: 56ms
+getDiagnostics: 59ms
+getDiagnostics: 77ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 62ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getHoverAt: 9ms
+getDefinitionAt: 12ms
+getDefinitionAt: 5ms
+getHoverAt: 5ms
+getDefinitionAt: 4ms
+getHoverAt: 56ms
+getHoverAt: 65ms
+getDiagnostics: 9ms
+getHoverAt: 12ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 57ms
+getHoverAt: 11ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getHoverAt: 12ms
+getCompletions: 56ms
+getDiagnostics: 67ms
+getHoverAt: 8ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getCompletions: 54ms
+getDiagnostics: 59ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getHoverAt: 12ms
+Search path: /angular/listado-personas/src/app
+Config file name: /angular/listado-personas/tsconfig.json
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+getDiagnostics: 101ms
+getHoverAt: 0ms
+getHoverAt: 1ms
+getDiagnostics: 53ms
+Search path: /angular/listado-personas/src/app
+Config file name: /angular/listado-personas/tsconfig.json
+getTemplateReferences: 46ms
+getDefinitionAt: 0ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 9ms
+getDiagnostics: 22ms
+getCompletions: 36ms
+getDiagnostics: 24ms
+getDiagnostics: 19ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 20ms
+getCompletions: 16ms
+getDiagnostics: 50ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getCompletions: 18ms
+getCompletions: 9ms
+getCompletions: 15ms
+getDiagnostics: 15ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 21ms
+getCompletions: 13ms
+getDiagnostics: 60ms
+getCompletions: 14ms
+getDiagnostics: 5ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 18ms
+getDiagnostics: 64ms
+getDiagnostics: 25ms
+getDiagnostics: 23ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 20ms
+getCompletions: 16ms
+getDiagnostics: 60ms
+getCompletions: 19ms
+getDiagnostics: 4ms
+getDiagnostics: 21ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 18ms
+getCompletions: 12ms
+getDiagnostics: 60ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getCompletions: 12ms
+getDiagnostics: 12ms
+getDiagnostics: 28ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 23ms
+getDiagnostics: 55ms
+getDiagnostics: 16ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 14ms
+getCompletions: 20ms
+getCompletions: 28ms
+getDiagnostics: 46ms
+getCompletions: 27ms
+getDiagnostics: 12ms
+getDiagnostics: 24ms
+getCompletions: 10ms
+getCompletions: 15ms
+getDiagnostics: 15ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 17ms
+getCompletions: 13ms
+getDiagnostics: 67ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getCompletions: 19ms
+getDiagnostics: 4ms
+getCompletions: 12ms
+getDiagnostics: 12ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 19ms
+getDiagnostics: 70ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 17ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 16ms
+getDiagnostics: 58ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getCompletions: 9ms
+getDiagnostics: 3ms
+getDiagnostics: 16ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 23ms
+getDiagnostics: 54ms
+getCompletions: 16ms
+getCompletions: 12ms
+getDiagnostics: 19ms
+getDiagnostics: 17ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 19ms
+getCompletions: 18ms
+getCompletions: 16ms
+getDiagnostics: 58ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getCompletions: 11ms
+getDiagnostics: 6ms
+getDiagnostics: 22ms
+getDiagnostics: 26ms
+getDiagnostics: 25ms
+getDiagnostics: 18ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 17ms
+getCompletions: 14ms
+getDiagnostics: 71ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 21ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 16ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+Search path: /angular/listado-personas/src/app/login
+Config file name: /angular/listado-personas/tsconfig.json
+getTemplateReferences: 49ms
+getDefinitionAt: 0ms
+getDefinitionAt: 0ms
+getDiagnostics: 4ms
+getCompletions: 55ms
+getCompletions: 9ms
+getDiagnostics: 36ms
+getCompletions: 8ms
+getDiagnostics: 54ms
+getCompletions: 9ms
+getDiagnostics: 31ms
+getDiagnostics: 52ms
+getCompletions: 14ms
+getDiagnostics: 37ms
+updating project structure from ...
+getTemplateReferences: 21ms
+updated: ng - 0ms
+Search path: /angular/listado-personas/src/app
+Config file name: /angular/listado-personas/tsconfig.json
+getTemplateReferences: 0ms
+getDiagnostics: 31ms
+getHoverAt: 1ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 1ms
+getHoverAt: 1ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getCompletions: 14ms
+getDiagnostics: 64ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 18ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 18ms
+Search path: /angular/listado-personas/src/app/login
+Config file name: /angular/listado-personas/tsconfig.json
+getTemplateReferences: 51ms
+getDefinitionAt: 1ms
+getDiagnostics: 2ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 1ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 1ms
+getHoverAt: 0ms
+getHoverAt: 1ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 1ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 1ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 1ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 1ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 1ms
+getHoverAt: 1ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 1ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 1ms
+getHoverAt: 1ms
+getHoverAt: 0ms
+Search path: /angular/listado-personas/src/app/login
+Config file name: /angular/listado-personas/tsconfig.json
+getTemplateReferences: 0ms
+getCompletions: 11ms
+getCompletions: 14ms
+getCompletions: 98ms
+getCompletions: 12ms
+getCompletions: 17ms
+getCompletions: 13ms
+getCompletions: 11ms
+getDiagnostics: 12ms
+getCompletions: 12ms
+getCompletions: 8ms
+getCompletions: 10ms
+getCompletions: 8ms
+getDiagnostics: 0ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 56ms
+getCompletions: 13ms
+getDiagnostics: 53ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getCompletions: 11ms
+getDiagnostics: 19ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 53ms
+getDiagnostics: 63ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 24ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 41ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 1ms
+getCompletions: 16ms
+getDiagnostics: 173ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getHoverAt: 0ms
+getHoverAt: 1ms
+getDefinitionAt: 0ms
+getDefinitionAt: 0ms
+getDefinitionAt: 0ms
+getDiagnostics: 49ms
+getCompletions: 14ms
+getDiagnostics: 0ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 37ms
+getHoverAt: 1ms
+getHoverAt: 0ms
+getHoverAt: 1ms
+getDiagnostics: 68ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getCompletions: 12ms
+getDiagnostics: 18ms
+getCompletions: 16ms
+getDiagnostics: 15ms
+getCompletions: 17ms
+getDiagnostics: 70ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 44ms
+getDiagnostics: 94ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 2ms
+getDiagnostics: 16ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 46ms
+getDiagnostics: 53ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 12ms
+getCompletions: 21ms
+getDiagnostics: 18ms
+getDiagnostics: 16ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 48ms
+getCompletions: 25ms
+getCompletions: 14ms
+getDiagnostics: 67ms
+getDiagnostics: 13ms
+getCompletions: 12ms
+getDiagnostics: 13ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 36ms
+getDiagnostics: 51ms
+getCompletions: 14ms
+getDiagnostics: 9ms
+getCompletions: 12ms
+getDiagnostics: 15ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 37ms
+getCompletions: 18ms
+getDiagnostics: 46ms
+getCompletions: 11ms
+getCompletions: 11ms
+getCompletions: 14ms
+getDiagnostics: 0ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 39ms
+getCompletions: 11ms
+getCompletions: 11ms
+getDiagnostics: 42ms
+getCompletions: 11ms
+getCompletions: 13ms
+getDiagnostics: 0ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 40ms
+getDiagnostics: 62ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getDiagnostics: 13ms
+getCompletions: 21ms
+getDiagnostics: 18ms
+getCompletions: 16ms
+getCompletions: 23ms
+getCompletions: 17ms
+getCompletions: 15ms
+getCompletions: 13ms
+getCompletions: 14ms
+getCompletions: 11ms
+getCompletions: 13ms
+getCompletions: 13ms
+getCompletions: 10ms
+getCompletions: 16ms
+getCompletions: 14ms
+getCompletions: 16ms
+getCompletions: 18ms
+getCompletions: 12ms
+getCompletions: 13ms
+getDiagnostics: 0ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 38ms
+getDiagnostics: 50ms
+getCompletions: 18ms
+getCompletions: 11ms
+getCompletions: 13ms
+getDiagnostics: 0ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 41ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getCompletions: 18ms
+getDiagnostics: 72ms
+getDiagnostics: 23ms
+getCompletions: 21ms
+getDiagnostics: 15ms
+getCompletions: 15ms
+getDiagnostics: 10ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 49ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 17ms
+getDiagnostics: 44ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 18ms
+getDiagnostics: 0ms
+getHoverAt: 13ms
+getDiagnostics: 0ms
+getHoverAt: 10ms
+getHoverAt: 15ms
+getHoverAt: 0ms
+getDiagnostics: 1ms
+getDiagnostics: 11ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 36ms
+getDiagnostics: 68ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getHoverAt: 1ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getDiagnostics: 18ms
+getHoverAt: 0ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 43ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 1ms
+getHoverAt: 0ms
+getHoverAt: 1ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getDefinitionAt: 0ms
+Search path: /angular/listado-personas/node_modules/@angular/router/src
+Config file name: /angular/listado-personas/tsconfig.json
+getTemplateReferences: 37ms
+getTemplateReferences: 0ms
+getDefinitionAt: 0ms
+Search path: /angular/listado-personas/node_modules/@angular/router/src
+Config file name: /angular/listado-personas/tsconfig.json
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+getHoverAt: 0ms
+getDiagnostics: 46ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 47ms
+getDefinitionAt: 65ms
+Search path: /angular/listado-personas/node_modules/@angular/router/src
+Config file name: /angular/listado-personas/tsconfig.json
+getTemplateReferences: 45ms
+getTemplateReferences: 0ms
+getDefinitionAt: 0ms
+Search path: /angular/listado-personas/node_modules/@angular/router/src
+Config file name: /angular/listado-personas/tsconfig.json
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 32ms
+getDiagnostics: 6ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getCompletions: 48ms
+getDiagnostics: 18ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 34ms
+getDiagnostics: 46ms
+getCompletions: 11ms
+getCompletions: 8ms
+getCompletions: 11ms
+getCompletions: 13ms
+getCompletions: 11ms
+getCompletions: 10ms
+getDiagnostics: 0ms
+getHoverAt: 0ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 41ms
+getHoverAt: 0ms
+getCompletions: 58ms
+getDiagnostics: 35ms
+getCompletions: 41ms
+getDiagnostics: 49ms
+getCompletions: 37ms
+getHoverAt: 59ms
+getDiagnostics: 0ms
+getDiagnostics: 46ms
+getHoverAt: 0ms
+getDiagnostics: 54ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 37ms
+getHoverAt: 0ms
+getHoverAt: 17ms
+getHoverAt: 0ms
+getDiagnostics: 39ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getDiagnostics: 19ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 30ms
+getHoverAt: 1ms
+getHoverAt: 1ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getDefinitionAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getDefinitionAt: 9ms
+getHoverAt: 0ms
+getHoverAt: 14ms
+getDiagnostics: 43ms
+getDiagnostics: 17ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 36ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getDiagnostics: 55ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 1ms
+Search path: /angular/listado-personas/src/app/login
+Config file name: /angular/listado-personas/tsconfig.json
+getTemplateReferences: 0ms
+getDiagnostics: 0ms
+getDiagnostics: 9ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 43ms
+getHoverAt: 0ms
+getHoverAt: 15ms
+getDiagnostics: 40ms
+getDiagnostics: 12ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 38ms
+getDiagnostics: 51ms
+getCompletions: 15ms
+getCompletions: 13ms
+getDiagnostics: 0ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 48ms
+getHoverAt: 0ms
+getCompletions: 18ms
+getCompletions: 27ms
+getDiagnostics: 65ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 20ms
+getCompletions: 22ms
+getDiagnostics: 17ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 46ms
+getCompletions: 12ms
+getDiagnostics: 60ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 16ms
+getCompletions: 11ms
+getCompletions: 14ms
+getDiagnostics: 15ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 37ms
+Search path: /angular/listado-personas/src/app/login
+Config file name: /angular/listado-personas/tsconfig.json
+getTemplateReferences: 52ms
+getDiagnostics: 0ms
+getDiagnostics: 16ms
+getCompletions: 20ms
+getDiagnostics: 13ms
+getCompletions: 43ms
+getCompletions: 11ms
+getDiagnostics: 0ms
+getCompletions: 19ms
+getDiagnostics: 0ms
+getDiagnostics: 8ms
+getCompletions: 11ms
+getDiagnostics: 1ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 51ms
+getCompletions: 12ms
+getDiagnostics: 49ms
+getCompletions: 13ms
+getCompletions: 11ms
+getDiagnostics: 15ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 46ms
+getDiagnostics: 68ms
+getDiagnostics: 24ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 40ms
+getCompletions: 14ms
+getDiagnostics: 55ms
+getCompletions: 12ms
+getDiagnostics: 18ms
+getDiagnostics: 16ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 39ms
+getHoverAt: 0ms
+Search path: /angular/listado-personas/src/app/login
+Config file name: /angular/listado-personas/tsconfig.json
+getTemplateReferences: 38ms
+getDiagnostics: 0ms
+Search path: /angular/listado-personas/src/app
+Config file name: /angular/listado-personas/tsconfig.json
+getTemplateReferences: 0ms
+getDiagnostics: 16ms
+getHoverAt: 1ms
+getHoverAt: 1ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getDiagnostics: 28ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 21ms
+getCompletions: 30ms
+getDiagnostics: 65ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 12ms
+getCompletions: 19ms
+getCompletions: 12ms
+getCompletions: 20ms
+getCompletions: 9ms
+getCompletions: 15ms
+getCompletions: 14ms
+getCompletions: 14ms
+getCompletions: 15ms
+getDiagnostics: 10ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 21ms
+getHoverAt: 0ms
+Search path: /angular/listado-personas/src/app
+Config file name: /angular/listado-personas/tsconfig.json
+getTemplateReferences: 43ms
+getDiagnostics: 2ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getDiagnostics: 69ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 17ms
+getHoverAt: 1ms
+getDefinitionAt: 0ms
+getDefinitionAt: 0ms
+Search path: /angular/listado-personas/src/app
+Config file name: /angular/listado-personas/tsconfig.json
+getTemplateReferences: 35ms
+getDefinitionAt: 0ms
+Search path: /angular/listado-personas/src/app
+Config file name: /angular/listado-personas/tsconfig.json
+getTemplateReferences: 0ms
+getDefinitionAt: 0ms
+Search path: /angular/listado-personas/node_modules/@angular/common/http/src
+Config file name: /angular/listado-personas/tsconfig.json
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+getDiagnostics: 0ms
+getDefinitionAt: 912ms
+getDiagnostics: 5ms
+getHoverAt: 0ms
+getHoverAt: 1ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 19ms
+getHoverAt: 1ms
+getDiagnostics: 93ms
+getHoverAt: 0ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getHoverAt: 0ms
+getDiagnostics: 55ms
+getHoverAt: 0ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 19ms
+getHoverAt: 0ms
+getDefinitionAt: 0ms
+Search path: /angular/listado-personas/src/app
+Config file name: /angular/listado-personas/tsconfig.json
+getTemplateReferences: 43ms
+getDefinitionAt: 0ms
+getHoverAt: 0ms
+getDiagnostics: 6ms
+Search path: /angular/listado-personas/src/app
+Config file name: /angular/listado-personas/tsconfig.json
+getTemplateReferences: 0ms
+getDiagnostics: 5ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getDiagnostics: 31ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 27ms
+getCompletions: 23ms
+getDiagnostics: 82ms
+getDiagnostics: 18ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 21ms
+getDiagnostics: 72ms
+getCompletions: 15ms
+getDiagnostics: 8ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 25ms
+getCompletions: 17ms
+getDiagnostics: 57ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 22ms
+getDiagnostics: 75ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 20ms
+Search path: /angular/listado-personas/src/app
+Config file name: /angular/listado-personas/tsconfig.json
+getTemplateReferences: 53ms
+getDiagnostics: 3ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getDiagnostics: 15ms
+getHoverAt: 0ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 25ms
+getDiagnostics: 77ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getHoverAt: 0ms
+getHoverAt: 1ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 1ms
+getHoverAt: 0ms
+getDiagnostics: 23ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 26ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getDefinitionAt: 0ms
+Search path: /angular/listado-personas/node_modules/@angular/router/src
+Config file name: /angular/listado-personas/tsconfig.json
+getTemplateReferences: 50ms
+getTemplateReferences: 0ms
+getHoverAt: 0ms
+Search path: /angular/listado-personas/src/app
+Config file name: /angular/listado-personas/tsconfig.json
+getTemplateReferences: 0ms
+getDefinitionAt: 0ms
+getHoverAt: 0ms
+Search path: /angular/listado-personas/node_modules/@angular/router/src
+Config file name: /angular/listado-personas/tsconfig.json
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+getDiagnostics: 0ms
+getHoverAt: 0ms
+getDiagnostics: 1025ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 50ms
+getDiagnostics: 59ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getCompletions: 53ms
+getDiagnostics: 25ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 18ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+Search path: /angular/listado-personas/src/app/login
+Config file name: /angular/listado-personas/tsconfig.json
+getTemplateReferences: 40ms
+getDiagnostics: 3ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+Search path: /angular/listado-personas/src/app/personas/formulario
+Config file name: /angular/listado-personas/tsconfig.json
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+getDiagnostics: 92ms
+Search path: /angular/listado-personas/src/app/personas/formulario
+Config file name: /angular/listado-personas/tsconfig.json
+getTemplateReferences: 0ms
+getDiagnostics: 36ms
+Search path: /angular/listado-personas/src/app/login
+Config file name: /angular/listado-personas/tsconfig.json
+getTemplateReferences: 60ms
+getDiagnostics: 3ms
+Search path: /angular/listado-personas/src/app/login
+Config file name: /angular/listado-personas/tsconfig.json
+getTemplateReferences: 0ms
+getDiagnostics: 8ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+Search path: /angular/listado-personas/src/app
+Config file name: /angular/listado-personas/tsconfig.json
+getTemplateReferences: 0ms
+getDiagnostics: 0ms
+Search path: /angular/listado-personas/src/app
+Config file name: /angular/listado-personas/tsconfig.json
+getTemplateReferences: 0ms
+Search path: /angular/listado-personas/src/app
+Config file name: /angular/listado-personas/tsconfig.json
+getTemplateReferences: 0ms
+getDiagnostics: 9ms
+Search path: /angular/listado-personas/src/app
+Config file name: /angular/listado-personas/tsconfig.json
+getTemplateReferences: 0ms
+Search path: /angular/listado-personas/src/app
+Config file name: /angular/listado-personas/tsconfig.json
+getTemplateReferences: 0ms
+getDiagnostics: 11ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getDefinitionAt: 0ms
+getHoverAt: 0ms
+getDiagnostics: 30ms
+updating project structure from ...
+updated: ng - 26ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getDiagnostics: 66ms
+getHoverAt: 0ms
+updating project structure from ...
+updated: ng - 0ms
+getDefinitionAt: 16ms
+getHoverAt: 0ms
+getDiagnostics: 5ms
+updating project structure from ...
+updated: ng - 20ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getDefinitionAt: 0ms
+getHoverAt: 18ms
+getDiagnostics: 60ms
+updating project structure from ...
+updated: ng - 0ms
+getHoverAt: 0ms
+getDiagnostics: 23ms
+updating project structure from ...
+updated: ng - 22ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 18ms
+getDiagnostics: 52ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getDiagnostics: 21ms
+getHoverAt: 0ms
+updating project structure from ...
+updated: ng - 18ms
+Search path: /angular/listado-personas/src/app
+Config file name: /angular/listado-personas/tsconfig.json
+getTemplateReferences: 47ms
+getDefinitionAt: 1ms
+Search path: /angular/listado-personas/src/app/login
+Config file name: /angular/listado-personas/tsconfig.json
+getTemplateReferences: 0ms
+getDiagnostics: 12ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 1ms
+getHoverAt: 1ms
+getDiagnostics: 25ms
+getDiagnostics: 23ms
+getDiagnostics: 19ms
+getDiagnostics: 27ms
+updating project structure from ...
+updated: ng - 21ms
+Search path: /angular/listado-personas/src/app
+Config file name: /angular/listado-personas/tsconfig.json
+getTemplateReferences: 50ms
+getDiagnostics: 2ms
+getHoverAt: 1ms
+getHoverAt: 1ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getDefinitionAt: 0ms
+getHoverAt: 0ms

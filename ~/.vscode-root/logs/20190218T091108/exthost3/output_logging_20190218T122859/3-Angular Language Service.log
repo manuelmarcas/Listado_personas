@@ -1,0 +1,181 @@
+Search path: /home/usuario/Descargas/listado-personas-http-final/src/app
+Config file name: /home/usuario/Descargas/listado-personas-http-final/tsconfig.json
+Angular Language Service: 7.1.4
+TypeScript: 3.1.6
+getTemplateReferences: 1727ms
+Add recursive watcher for: /home/usuario/Descargas/listado-personas-http-final
+Opened configuration file /home/usuario/Descargas/listado-personas-http-final/tsconfig.json
+getDiagnostics: 16ms
+getHoverAt: 1ms
+getHoverAt: 0ms
+remove project: /home/usuario/Descargas/listado-personas-http-final/e2e/src/app.e2e-spec.ts,/home/usuario/Descargas/listado-personas-http-final/e2e/src/app.po.ts,/home/usuario/Descargas/listado-personas-http-final/src/main.ts,/home/usuario/Descargas/listado-personas-http-final/src/polyfills.ts,/home/usuario/Descargas/listado-personas-http-final/src/test.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/LoggingService.service.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/app-routing.module.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/app.component.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/app.module.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/data.service.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/persona.model.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/personas.service.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/error/error.component.spec.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/error/error.component.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/personas/personas.component.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/personas/formulario/formulario.component.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/personas/persona/persona.component.ts,/home/usuario/Descargas/listado-personas-http-final/src/environments/environment.prod.ts,/home/usuario/Descargas/listado-personas-http-final/src/environments/environment.ts
+Search path: /home/usuario/Descargas/listado-personas-http-final/src/app
+Config file name: /home/usuario/Descargas/listado-personas-http-final/tsconfig.json
+Angular Language Service: 7.1.4
+TypeScript: 3.1.6
+getTemplateReferences: 1353ms
+Add recursive watcher for: /home/usuario/Descargas/listado-personas-http-final
+Opened configuration file /home/usuario/Descargas/listado-personas-http-final/tsconfig.json
+getDiagnostics: 2ms
+remove project: /home/usuario/Descargas/listado-personas-http-final/e2e/src/app.e2e-spec.ts,/home/usuario/Descargas/listado-personas-http-final/e2e/src/app.po.ts,/home/usuario/Descargas/listado-personas-http-final/src/main.ts,/home/usuario/Descargas/listado-personas-http-final/src/polyfills.ts,/home/usuario/Descargas/listado-personas-http-final/src/test.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/LoggingService.service.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/app-routing.module.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/app.component.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/app.module.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/data.service.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/persona.model.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/personas.service.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/error/error.component.spec.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/error/error.component.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/personas/personas.component.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/personas/formulario/formulario.component.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/personas/persona/persona.component.ts,/home/usuario/Descargas/listado-personas-http-final/src/environments/environment.prod.ts,/home/usuario/Descargas/listado-personas-http-final/src/environments/environment.ts
+Search path: /home/usuario/Descargas/listado-personas-http-final/src/app/personas
+Config file name: /home/usuario/Descargas/listado-personas-http-final/tsconfig.json
+Angular Language Service: 7.1.4
+TypeScript: 3.1.6
+getTemplateReferences: 1241ms
+Add recursive watcher for: /home/usuario/Descargas/listado-personas-http-final
+Opened configuration file /home/usuario/Descargas/listado-personas-http-final/tsconfig.json
+getHoverAt: 0ms
+getDiagnostics: 10ms
+getHoverAt: 1ms
+getHoverAt: 0ms
+remove project: /home/usuario/Descargas/listado-personas-http-final/e2e/src/app.e2e-spec.ts,/home/usuario/Descargas/listado-personas-http-final/e2e/src/app.po.ts,/home/usuario/Descargas/listado-personas-http-final/src/main.ts,/home/usuario/Descargas/listado-personas-http-final/src/polyfills.ts,/home/usuario/Descargas/listado-personas-http-final/src/test.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/LoggingService.service.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/app-routing.module.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/app.component.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/app.module.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/data.service.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/persona.model.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/personas.service.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/error/error.component.spec.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/error/error.component.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/personas/personas.component.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/personas/formulario/formulario.component.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/personas/persona/persona.component.ts,/home/usuario/Descargas/listado-personas-http-final/src/environments/environment.prod.ts,/home/usuario/Descargas/listado-personas-http-final/src/environments/environment.ts
+Search path: /home/usuario/Descargas/listado-personas-http-final/src/app
+Config file name: /home/usuario/Descargas/listado-personas-http-final/tsconfig.json
+Angular Language Service: 7.1.4
+TypeScript: 3.1.6
+getTemplateReferences: 1126ms
+Add recursive watcher for: /home/usuario/Descargas/listado-personas-http-final
+Opened configuration file /home/usuario/Descargas/listado-personas-http-final/tsconfig.json
+getDiagnostics: 3ms
+getHoverAt: 0ms
+getHoverAt: 1ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 1ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 1ms
+getHoverAt: 1ms
+getHoverAt: 0ms
+remove project: /home/usuario/Descargas/listado-personas-http-final/e2e/src/app.e2e-spec.ts,/home/usuario/Descargas/listado-personas-http-final/e2e/src/app.po.ts,/home/usuario/Descargas/listado-personas-http-final/src/main.ts,/home/usuario/Descargas/listado-personas-http-final/src/polyfills.ts,/home/usuario/Descargas/listado-personas-http-final/src/test.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/LoggingService.service.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/app-routing.module.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/app.component.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/app.module.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/data.service.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/persona.model.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/personas.service.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/error/error.component.spec.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/error/error.component.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/personas/personas.component.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/personas/formulario/formulario.component.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/personas/persona/persona.component.ts,/home/usuario/Descargas/listado-personas-http-final/src/environments/environment.prod.ts,/home/usuario/Descargas/listado-personas-http-final/src/environments/environment.ts
+Search path: /home/usuario/Descargas/listado-personas-http-final/src/app
+Config file name: /home/usuario/Descargas/listado-personas-http-final/tsconfig.json
+Angular Language Service: 7.1.4
+TypeScript: 3.1.6
+getTemplateReferences: 1108ms
+Add recursive watcher for: /home/usuario/Descargas/listado-personas-http-final
+Opened configuration file /home/usuario/Descargas/listado-personas-http-final/tsconfig.json
+getHoverAt: 0ms
+getDiagnostics: 7ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+remove project: /home/usuario/Descargas/listado-personas-http-final/e2e/src/app.e2e-spec.ts,/home/usuario/Descargas/listado-personas-http-final/e2e/src/app.po.ts,/home/usuario/Descargas/listado-personas-http-final/src/main.ts,/home/usuario/Descargas/listado-personas-http-final/src/polyfills.ts,/home/usuario/Descargas/listado-personas-http-final/src/test.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/LoggingService.service.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/app-routing.module.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/app.component.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/app.module.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/data.service.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/persona.model.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/personas.service.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/error/error.component.spec.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/error/error.component.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/personas/personas.component.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/personas/formulario/formulario.component.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/personas/persona/persona.component.ts,/home/usuario/Descargas/listado-personas-http-final/src/environments/environment.prod.ts,/home/usuario/Descargas/listado-personas-http-final/src/environments/environment.ts
+Search path: /home/usuario/Descargas/listado-personas-http-final/src/app/personas
+Config file name: /home/usuario/Descargas/listado-personas-http-final/tsconfig.json
+Angular Language Service: 7.1.4
+TypeScript: 3.1.6
+getTemplateReferences: 1158ms
+Add recursive watcher for: /home/usuario/Descargas/listado-personas-http-final
+Opened configuration file /home/usuario/Descargas/listado-personas-http-final/tsconfig.json
+getDiagnostics: 5ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+remove project: /home/usuario/Descargas/listado-personas-http-final/e2e/src/app.e2e-spec.ts,/home/usuario/Descargas/listado-personas-http-final/e2e/src/app.po.ts,/home/usuario/Descargas/listado-personas-http-final/src/main.ts,/home/usuario/Descargas/listado-personas-http-final/src/polyfills.ts,/home/usuario/Descargas/listado-personas-http-final/src/test.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/LoggingService.service.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/app-routing.module.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/app.component.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/app.module.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/data.service.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/persona.model.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/personas.service.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/error/error.component.spec.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/error/error.component.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/personas/personas.component.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/personas/formulario/formulario.component.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/personas/persona/persona.component.ts,/home/usuario/Descargas/listado-personas-http-final/src/environments/environment.prod.ts,/home/usuario/Descargas/listado-personas-http-final/src/environments/environment.ts
+Search path: /home/usuario/Descargas/listado-personas-http-final/src/app
+Config file name: /home/usuario/Descargas/listado-personas-http-final/tsconfig.json
+Angular Language Service: 7.1.4
+TypeScript: 3.1.6
+getTemplateReferences: 1124ms
+Add recursive watcher for: /home/usuario/Descargas/listado-personas-http-final
+Opened configuration file /home/usuario/Descargas/listado-personas-http-final/tsconfig.json
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getDefinitionAt: 0ms
+getDefinitionAt: 0ms
+getHoverAt: 0ms
+getDefinitionAt: 18ms
+getDiagnostics: 15ms
+getHoverAt: 0ms
+updating project structure from ...
+updated: ng - 23ms
+getHoverAt: 0ms
+getDefinitionAt: 0ms
+getDefinitionAt: 21ms
+getHoverAt: 1ms
+getHoverAt: 0ms
+getDiagnostics: 60ms
+updating project structure from ...
+updated: ng - 0ms
+getDiagnostics: 25ms
+getHoverAt: 1ms
+getHoverAt: 36ms
+getHoverAt: 0ms
+getDiagnostics: 8ms
+updating project structure from ...
+updated: ng - 21ms
+getHoverAt: 1ms
+getHoverAt: 0ms
+getDefinitionAt: 1ms
+getHoverAt: 0ms
+getDefinitionAt: 16ms
+getDiagnostics: 51ms
+getHoverAt: 1ms
+getDiagnostics: 27ms
+updating project structure from ...
+updated: ng - 24ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getDefinitionAt: 0ms
+getDefinitionAt: 0ms
+getHoverAt: 0ms
+getDiagnostics: 69ms
+getDiagnostics: 24ms
+getHoverAt: 0ms
+updating project structure from ...
+updated: ng - 27ms
+remove project: /home/usuario/Descargas/listado-personas-http-final/e2e/src/app.e2e-spec.ts,/home/usuario/Descargas/listado-personas-http-final/e2e/src/app.po.ts,/home/usuario/Descargas/listado-personas-http-final/src/main.ts,/home/usuario/Descargas/listado-personas-http-final/src/polyfills.ts,/home/usuario/Descargas/listado-personas-http-final/src/test.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/LoggingService.service.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/app-routing.module.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/app.component.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/app.module.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/data.service.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/persona.model.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/personas.service.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/error/error.component.spec.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/error/error.component.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/personas/personas.component.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/personas/formulario/formulario.component.ts,/home/usuario/Descargas/listado-personas-http-final/src/app/personas/persona/persona.component.ts,/home/usuario/Descargas/listado-personas-http-final/src/environments/environment.prod.ts,/home/usuario/Descargas/listado-personas-http-final/src/environments/environment.ts
+Search path: /home/usuario/Descargas/listado-personas-http-final/src/app
+Config file name: /home/usuario/Descargas/listado-personas-http-final/tsconfig.json
+Angular Language Service: 7.1.4
+TypeScript: 3.1.6
+getTemplateReferences: 1776ms
+Add recursive watcher for: /home/usuario/Descargas/listado-personas-http-final
+Opened configuration file /home/usuario/Descargas/listado-personas-http-final/tsconfig.json
+Search path: /home/usuario/Descargas/listado-personas-http-final/src/app
+Config file name: /home/usuario/Descargas/listado-personas-http-final/tsconfig.json
+getTemplateReferences: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getDiagnostics: 13ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+Search path: /home/usuario/Descargas/listado-personas-http-final/src/app/personas
+Config file name: /home/usuario/Descargas/listado-personas-http-final/tsconfig.json
+getTemplateReferences: 0ms
+getDiagnostics: 40ms
+getHoverAt: 0ms
+Search path: /home/usuario/Descargas/listado-personas-http-final/src/app
+Config file name: /home/usuario/Descargas/listado-personas-http-final/tsconfig.json
+getTemplateReferences: 67ms
+getDiagnostics: 8ms
+getDiagnostics: 31ms
+updating project structure from ...
+updated: ng - 21ms
+Search path: /home/usuario/Descargas/listado-personas-http-final/src/app
+Config file name: /home/usuario/Descargas/listado-personas-http-final/tsconfig.json
+getTemplateReferences: 54ms
+getDiagnostics: 4ms
+Search path: /home/usuario/Descargas/listado-personas-http-final/src/app/personas
+Config file name: /home/usuario/Descargas/listado-personas-http-final/tsconfig.json
+getTemplateReferences: 0ms
+getDiagnostics: 32ms
+getHoverAt: 1ms
+getHoverAt: 1ms
+getHoverAt: 0ms
+getHoverAt: 1ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms

@@ -1,0 +1,38 @@
+[2019-02-14 12:19:35.056] [exthost] [info] extension host started
+[2019-02-14 12:19:35.072] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-02-14 12:19:35.072] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-02-14 12:19:35.075] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-02-14 12:19:35.075] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-02-14 12:19:35.089] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-02-14 12:19:35.089] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-02-14 12:19:35.170] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-02-14 12:19:35.170] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-02-14 12:19:35.174] [exthost] [info] ExtensionService#_doActivateExtension jakethashi.vscode-angular2-emmet {"startup":true,"activationEvent":"*"}
+[2019-02-14 12:19:35.174] [exthost] [info] ExtensionService#loadCommonJSModule /home/usuario/.vscode/extensions/jakethashi.vscode-angular2-emmet-2.0.3/out/src/extension
+[2019-02-14 12:19:35.231] [exthost] [info] eager extensions activated
+[2019-02-14 12:23:16.885] [exthost] [info] extension host started
+[2019-02-14 12:23:16.897] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-02-14 12:23:16.897] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-02-14 12:23:16.901] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-02-14 12:23:16.901] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-02-14 12:23:16.916] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-02-14 12:23:16.916] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-02-14 12:23:17.011] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-02-14 12:23:17.011] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-02-14 12:23:17.016] [exthost] [info] ExtensionService#_doActivateExtension jakethashi.vscode-angular2-emmet {"startup":true,"activationEvent":"*"}
+[2019-02-14 12:23:17.016] [exthost] [info] ExtensionService#loadCommonJSModule /home/usuario/.vscode/extensions/jakethashi.vscode-angular2-emmet-2.0.3/out/src/extension
+[2019-02-14 12:23:17.084] [exthost] [info] eager extensions activated
+[2019-02-14 12:25:45.427] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"activationEvent":"onLanguage:html"}
+[2019-02-14 12:25:45.427] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain
+[2019-02-14 12:25:45.481] [exthost] [info] ExtensionService#_doActivateExtension Angular.ng-template {"startup":false,"activationEvent":"onLanguage:html"}
+[2019-02-14 12:25:45.481] [exthost] [info] ExtensionService#loadCommonJSModule /home/usuario/.vscode/extensions/angular.ng-template-0.1.11/out/extension
+[2019-02-14 12:25:52.445] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:typescript"}
+[2019-02-14 12:25:52.445] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/extension-editing/dist/extension
+[2019-02-14 12:25:52.483] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:typescript"}
+[2019-02-14 12:25:52.483] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2019-02-14 12:25:56.395] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-02-14 12:25:56.395] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2019-02-14 12:25:56.403] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-02-14 12:25:56.407] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2019-02-14 12:30:48.537] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"activationEvent":"onLanguage:css"}
+[2019-02-14 12:30:48.537] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/css-language-features/client/dist/cssMain

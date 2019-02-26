@@ -1,0 +1,62 @@
+Search path: /home/usuario/Descargas/listado-personas-deploy-final/src/app
+Config file name: /home/usuario/Descargas/listado-personas-deploy-final/tsconfig.json
+Angular Language Service: 7.1.1
+TypeScript: 3.1.6
+getTemplateReferences: 166ms
+Add recursive watcher for: /home/usuario/Descargas/listado-personas-deploy-final
+Opened configuration file /home/usuario/Descargas/listado-personas-deploy-final/tsconfig.json
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getDiagnostics: 7ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+Detected source file changes: /home/usuario/Descargas/listado-personas-deploy-final/node_modules/.staging/@xtuc/long-3cfd6c5a/index.d.ts
+Detected source file changes: /home/usuario/Descargas/listado-personas-deploy-final/node_modules/.staging/firebase-000abd3f/empty-import.d.ts
+Detected source file changes: /home/usuario/Descargas/listado-personas-deploy-final/node_modules/.staging/@types/jasminewd2-fc66290f/index.d.ts
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getDefinitionAt: 2145ms
+getDiagnostics: 5ms
+updating project structure from ...
+updated: ng - 1096ms
+getHoverAt: 0ms
+getDefinitionAt: 19ms
+getHoverAt: 0ms
+getDiagnostics: 80ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+updating project structure from ...
+updated: ng - 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getDefinitionAt: 0ms
+getDefinitionAt: 0ms
+getDiagnostics: 25ms
+getDiagnostics: 25ms
+updating project structure from ...
+updated: ng - 17ms
+getDefinitionAt: 0ms
+getDefinitionAt: 1ms
+getDiagnostics: 71ms
+remove project: /home/usuario/Descargas/listado-personas-deploy-final/e2e/src/app.e2e-spec.ts,/home/usuario/Descargas/listado-personas-deploy-final/e2e/src/app.po.ts,/home/usuario/Descargas/listado-personas-deploy-final/src/main.ts,/home/usuario/Descargas/listado-personas-deploy-final/src/polyfills.ts,/home/usuario/Descargas/listado-personas-deploy-final/src/test.ts,/home/usuario/Descargas/listado-personas-deploy-final/src/app/LoggingService.service.ts,/home/usuario/Descargas/listado-personas-deploy-final/src/app/app-routing.module.ts,/home/usuario/Descargas/listado-personas-deploy-final/src/app/app.component.ts,/home/usuario/Descargas/listado-personas-deploy-final/src/app/app.module.ts,/home/usuario/Descargas/listado-personas-deploy-final/src/app/data.service.ts,/home/usuario/Descargas/listado-personas-deploy-final/src/app/persona.model.ts,/home/usuario/Descargas/listado-personas-deploy-final/src/app/personas.service.ts,/home/usuario/Descargas/listado-personas-deploy-final/src/app/error/error.component.ts,/home/usuario/Descargas/listado-personas-deploy-final/src/app/login/login-guardian.service.ts,/home/usuario/Descargas/listado-personas-deploy-final/src/app/login/login.component.ts,/home/usuario/Descargas/listado-personas-deploy-final/src/app/login/login.service.ts,/home/usuario/Descargas/listado-personas-deploy-final/src/app/personas/personas.component.ts,/home/usuario/Descargas/listado-personas-deploy-final/src/app/personas/formulario/formulario.component.ts,/home/usuario/Descargas/listado-personas-deploy-final/src/app/personas/persona/persona.component.ts,/home/usuario/Descargas/listado-personas-deploy-final/src/environments/environment.prod.ts,/home/usuario/Descargas/listado-personas-deploy-final/src/environments/environment.ts
+Search path: /home/usuario/Descargas/listado-personas-deploy-final/src/app
+Config file name: /home/usuario/Descargas/listado-personas-deploy-final/tsconfig.json
+Angular Language Service: 7.1.4
+TypeScript: 3.1.6
+getTemplateReferences: 1208ms
+Add recursive watcher for: /home/usuario/Descargas/listado-personas-deploy-final
+Opened configuration file /home/usuario/Descargas/listado-personas-deploy-final/tsconfig.json
+updating project structure from ...
+updated: ng - 0ms
+getDefinitionAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 1ms
+getDiagnostics: 4ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms

@@ -1,0 +1,17 @@
+Search path: /home/usuario/Descargas/listado-personas-http-inicial/src/app
+Config file name: /home/usuario/Descargas/listado-personas-http-inicial/tsconfig.json
+Angular Language Service: 7.1.4
+TypeScript: 3.1.6
+getTemplateReferences: 1628ms
+Add recursive watcher for: /home/usuario/Descargas/listado-personas-http-inicial
+Opened configuration file /home/usuario/Descargas/listado-personas-http-inicial/tsconfig.json
+remove project: /home/usuario/Descargas/listado-personas-http-inicial/e2e/src/app.e2e-spec.ts,/home/usuario/Descargas/listado-personas-http-inicial/e2e/src/app.po.ts,/home/usuario/Descargas/listado-personas-http-inicial/src/main.ts,/home/usuario/Descargas/listado-personas-http-inicial/src/polyfills.ts,/home/usuario/Descargas/listado-personas-http-inicial/src/test.ts,/home/usuario/Descargas/listado-personas-http-inicial/src/app/LoggingService.service.ts,/home/usuario/Descargas/listado-personas-http-inicial/src/app/app-routing.module.ts,/home/usuario/Descargas/listado-personas-http-inicial/src/app/app.component.ts,/home/usuario/Descargas/listado-personas-http-inicial/src/app/app.module.ts,/home/usuario/Descargas/listado-personas-http-inicial/src/app/persona.model.ts,/home/usuario/Descargas/listado-personas-http-inicial/src/app/personas.service.ts,/home/usuario/Descargas/listado-personas-http-inicial/src/app/error/error.component.ts,/home/usuario/Descargas/listado-personas-http-inicial/src/app/personas/personas.component.ts,/home/usuario/Descargas/listado-personas-http-inicial/src/app/personas/formulario/formulario.component.ts,/home/usuario/Descargas/listado-personas-http-inicial/src/app/personas/persona/persona.component.ts,/home/usuario/Descargas/listado-personas-http-inicial/src/environments/environment.prod.ts,/home/usuario/Descargas/listado-personas-http-inicial/src/environments/environment.ts
+Search path: /home/usuario/Descargas/listado-personas-http-inicial/src/app
+Config file name: /home/usuario/Descargas/listado-personas-http-inicial/tsconfig.json
+Angular Language Service: 7.1.4
+TypeScript: 3.1.6
+getTemplateReferences: 1088ms
+Add recursive watcher for: /home/usuario/Descargas/listado-personas-http-inicial
+Opened configuration file /home/usuario/Descargas/listado-personas-http-inicial/tsconfig.json
+getDiagnostics: 14ms
+getHoverAt: 0ms
